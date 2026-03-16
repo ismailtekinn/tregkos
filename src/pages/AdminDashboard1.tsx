@@ -22,7 +22,7 @@ import {
   ExclamationTriangle,
 } from "react-bootstrap-icons";
 
-const AdminPanelBootstrap = () => {
+const AdminDashboard1 = () => {
   return (
     <Container fluid className="p-0">
       {/* Topbar */}
@@ -284,4 +284,4 @@ const AdminPanelBootstrap = () => {
   );
 };
 
-export default AdminPanelBootstrap;
+export default AdminDashboard1;

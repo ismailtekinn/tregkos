@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css"; // Bootstrap CSS
-import AdminPanelBootstrap from "./pages/AdminPanelBootstrap";
+import AppRoute from "./AppRoute";
 
 function App() {
   return (
     <div>
-      <AdminPanelBootstrap />
+    <AppRoute/>
     </div>
   );
 }
